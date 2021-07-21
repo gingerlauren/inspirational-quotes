@@ -13,4 +13,4 @@ Running end-to-end tests Run ng e2e to execute the end-to-end tests via Protract
 
 Further help To get more help on the Angular CLI use ng help or go check out the Angular CLI README. For any queries feel free to contact me via my email address sagide.ginger@gmail.com
 
-License To view the license check out the license file attached to this application Copyright (c) {2021} {Ginger Lauren}git.
+License To view the license check out the license file attached to this application Copyright (c) {2021} {Ginger Lauren}.git
