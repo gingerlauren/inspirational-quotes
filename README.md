@@ -1,4 +1,4 @@
-inspirational-quotes
+INSPIRATIONAL-QUOTES.
 Quotes application {Quotes application displays different quotes and their types then allows one to add a new quote. on each quote the user is able to upvote or downvote on that specific vote.} By {Ginger Lauren} Technologies Used This project was generated with Angular CLI version.
 
 Development server Run ng serve for a dev server. Navigate to http://localhost:4200/. The app will automatically reload if you change any of the source files.
