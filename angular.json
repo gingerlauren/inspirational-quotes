@@ -3,8 +3,8 @@
   "cli": {
     "analytics": "263b83b4-e8b0-49a2-b4a5-e2a6ad81d1a5"
   }
-  "version":,
-  "newProjectRoot": "projects",
+  ,"version":1
+  ,"newProjectRoot": "projects",
   "projects": {
     "quotes": {
       "root": "",

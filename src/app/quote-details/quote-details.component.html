@@ -2,7 +2,7 @@
 <p>Published by :{{quote.person}}</p>
 <p>Date:{{quote.date|date}}</p>
 
-<p>Days past since quote was written {{quote.date|timePast}} </p>
+<p>The duration since the quote was written {{quote.date|timePast}} </p>
 
 <div class="container">
   <div class="row">
@@ -14,6 +14,6 @@
         <p>Down votes :{{quote.downvote}}</p>
       <button type="button" class="btn btn-outline-warning" (click)="downvote()">Downvote</button><br>
     </div>
-    <button class="btn btn-danger" (click)='delete(true)'> Delete quote</button>
+    <button class="btn btn-danger" (click)='delete(true)'><span style="color:#EB9284">Delete quote</span> </button>
   </div>
 </div>

@@ -11,7 +11,7 @@ export class AppComponent {
   title = 'Quotes';
 
   quotes = [
-    new Quotes(1, 'I am thankful for all of those who said NO to me. It`s because of them i`m doing it myself.', `Albert Einstein`, 0,0, `wanje`, new Date(2019, 3, 14)),
+    new Quotes(1, 'If you do not find the way you must create one.', `Diamond Trust`, 0,0, `Ginger Lauren`, new Date(2021, 2, 15)),
   ]
 
 }

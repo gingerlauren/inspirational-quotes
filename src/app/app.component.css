@@ -1,10 +1,17 @@
 h1{
-  height: 130px;
-  color: white;
-  background-color: rgb(135, 150, 235);
-  background-image: url(https://image.freepik.com/free-vector/template-quotes-blue-background_1017-4416.jpg)
+  height: 150px;
+  color: palevioletred;
+  background-color:aqua(50, 175, 56);
+  background-image: url(https://www.google.com/imgres?imgurl=https%3A%2F%2Fwallpaper-house.com%2Fdata%2Fout%2F6%2Fwallpaper2you_130115.jpg&imgrefurl=https%3A%2F%2Fwallpaper-house.com%2Fgroup%2Fbackgrounds-for-quotes%2Findex.php&tbnid=jfZ-ML4XbfYhJM&vet=12ahUKEwiOpv7O0fPxAhUF3RoKHXa3A9YQMygAegUIARDNAQ..i&docid=FfCXY2Hx-vkYmM&w=1920&h=1080&q=quotes%20background%20images&ved=2ahUKEwiOpv7O0fPxAhUF3RoKHXa3A9YQMygAegUIARDNAQ)
 
 }
 
 
 
+.app{
+  height: 150px;
+  color: palevioletred;
+  background-color:pink;
+  background-image: url(https://images.unsplash.com/photo-1620063857403-f84a4cce6d52?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTIyfHxuYWlyb2JpfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60)
+  
+}
